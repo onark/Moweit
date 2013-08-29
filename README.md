@@ -1,4 +1,4 @@
-Moweit.com
+moweit.com
 ==========
 
 moweit alpha versions
