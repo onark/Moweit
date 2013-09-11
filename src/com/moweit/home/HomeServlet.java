@@ -21,7 +21,7 @@ public class HomeServlet extends HttpServlet {
 		out.println("</head>");
 		out.println("<body>");
 		out.println("");
-		out.println("Hello World");
+		out.println("Hello moon");
 		out.println("");
 		out.println("");
 		out.println("");
